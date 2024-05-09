@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Kucing</string>
+
+    <string name="jenis_kucing">Jenis Kucing</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_kucing">Detail Kucing</string>
+    <string name="usia">Usia</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About Me</string>
+    <string name="about_nama">Rafi Fadhila Ramadhani</string>
+    <string name="about_email">rafifadhila440@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Kucing Abyssinian</item>
+        <item>Kucing American Shorthair</item>
+        <item>Kucing Balinese</item>
+        <item>Kucing Birman</item>
+        <item>Kucing Bengal</item>
+        <item>Kucing British Shorthair</item>
+        <item>Kucing Maine Coon</item>
+        <item>Kucing Persia</item>
+        <item>Kucing Ragdoll</item>
+        <item>Kucing Siamese</item>
+    </string-array>
+
+    <string-array name="usia">
+        <item>Usia: 9 hingga 13 tahun</item>
+        <item>Usia: 15 hingga 20 tahun</item>
+        <item>Usia: 8 hingga 13 tahun</item>
+        <item>Usia: 12 hingga 16 tahun</item>
+        <item>Usia: 14 hingga 16 tahun</item>
+        <item>Usia: 12 hingga 15 tahun</item>
+        <item>Usia: Hingga 15 tahun</item>
+        <item>Usia: 16 hingga 20 tahun</item>
+        <item>Usia: 13 hingga 18 tahun</item>
+        <item>Usia: 15 hingga 20 tahun</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kucing Abyssinian adalah salah satu ras kucing yang kuno dan terpandang, diyakini berasal dari Mesir kuno. Terkenal karena penampilan yang memukau dan kepribadian yang memikat, jenis kucing Abyssinian dihargai oleh pecinta kucing sejak berabad-abad yang lalu. Kucing anggun ini memiliki pola bulu yang khas, dengan setiap helai bulu bergaris-garis dengan berbagai warna. Bulu mereka memiliki kualitas hangat dan berkilau, menambah daya tarik mereka secara keseluruhan. Selain itu, kucing Abyssinian memiliki tubuh yang lentur dan berotot, mencerminkan sifat lincah dan kekuatan alami mereka. Tubuh ramping dan gerakan yang anggun mereka membuat mereka menjadi figur yang menakjubkan.</item>
+        <item>Kucing ini, yang awalnya dibawa ke Amerika Utara oleh orang Eropa, memainkan peran penting dalam mengendalikan hama. Kucing American Shorthair telah mengalami pembiakan selektif sejak awal tahun 1900-an untuk mempertahankan ciri khas mereka, menjadikan American Shorthair salah satu ras kucing paling populer. Saat ini, kucing bulu pendek Amerika ini menduduki peringkat sebagai ‘ras kucing yang keenam paling banyak dibudidayakan’ di seluruh dunia. American Shorthair ideal sebagai hewan peliharaan karena sifat mereka yang tidak memerlukan banyak perawatan, independen, dan dapat beradaptasi dengan baik saat ditinggal sendirian dalam waktu yang lama.</item>
+        <item>Kucing Balinese, yang juga dikenal sebagai keturunan murni kucing Siam berbulu panjang, sebenarnya tidak berasal dari Balinese, Indonesia, seperti yang banyak dipercaya orang. Ras ini mendapat nama dari keanggunan dan keluwesan penari Balinese yang bisa dikatakan menyerupai kucing tersebut. Karakteristik kucing Balinese dikenal dengan penggelapan warna bulu pada bagian tubuh tertentu (point coloration) yang mencolok, dengan warna mata biru safir yang menambah lagi daya tarik mereka. Selain penampilan mereka yang menawan, kucing Balinese memiliki bulu yang lembut dengan panjang sedang, disertai ekor yang berbulu lebat. Kecerdasan, keceriaan, dan sifat sosial kucing cantik ini diwarisi dari kucing Siam, nenek moyang mereka.</item>
+        <item>Salah satu cerita rakyat Burma yang paling dihormati dan terkenal adalah kisah Sinh, di mana seekor kucing Birman bermata emas yang memukau secara heroik menyelamatkan seorang pendeta terakhir di sebuah kuil di saat invasi. Sinh, awalnya memiliki bulu putih, dikatakan telah mengubah bulunya menjadi berwarna emas dan matanya berwarna biru safir, yang berkontribusi pada penampilan yang unik dari kucing Birman saat ini. Sejak saat itu, Birman telah menjadi sosok yang sering dan pantas dirayakan dalam berbagai cerita rakyat, media, dan referensi budaya populer, salah satunya yang paling berkesan adalah “That Darn Cat!” dari Disney Studios.</item>
+        <item>Kucing keturunan Bengal, dengan ciri-ciri kucing Bengal yang khas serta perilaku ceria mereka, sangat cocok di rumah yang mencari hewan peliharaan yang energik dan penuh kasih. Ras kucing Bengal ini, yang terkenal dengan ciri-ciri kucing Bengal mereka, tidak hanya bersemangat dan berjiwa muda tetapi juga menunjukkan ketaatan dan kesetiaan yang luar biasa.</item>
+        <item>Diyakini bahwa garis keturunan British Shorthair, yang merupakan salah satu ras kucing Inggris terkemuka, berasal dari kucing Romawi yang dibawa ke Inggris selama invasi Romawi pada tahun 43 Masehi. Sejak tahun 1870-an, kucing British ini menjadi sangat populer di Eropa. Namun, setelah Perang Dunia II, populasi mereka mengalami penurunan signifikan. Saat ini, British Shorthair memiliki warisan genetik dari kucing Russian Blue dan Persian.</item>
+        <item>Kucing Maine Coon yang menawan ini memiliki garis keturunan yang mengesankan. Dipercaya bahwa ras kucing Maine Coon adalah keturunan langsung dari enam kucing Angora Turki yang tiba di Maine di kapal Marie Antoinette. Maine Coon saat ini, dikenal sebagai "raksasa yang lembut," menonjol di antara berbagai ras kucing. Ciri khas Maine Coon adalah tubuh besar dan bulu yang mengalir. Mantel bulu tebal kucing Maine Coon, sebagai ciri kunci mereka, membantu Maine Coon bertahan di musim dingin yang panjang dan dingin di Maine.</item>
+        <item>Kucing Persia, dengan wajah khas "boneka" mereka, berasal dari kerajaan kuno Mesopotamia dan terkenal karena sikap ras kucing Persia mereka yang hangat, ramah, dan tenang. Selama ratusan tahun, ras kucing Persia yang luar biasa, dikenal dengan sikap megah mereka. Kucing Persia sering dikaitkan dengan bangsawan dan tokoh-tokoh terkenal seperti Florence Nightingale dan Ratu Victoria, berkat pesona ras kucing Persia mereka yang menawan.</item>
+        <item>Pemberian nama Ragdoll pada jenis kucing yang cantik ini sangat tepat karena mereka adalah jenis kucing yang akan dengan senang hati duduk di pangkuan Anda untuk waktu yang cukup lama. Kucing Ragdoll tidak hanya sangat ramah, tetapi mereka juga memiliki watak yang sangat lembut, membuat ras kucing Ragdoll cocok untuk keluarga yang memiliki anak kecil dan hewan peliharaan lainnya.</item>
+        <item>Kucing ras Siam, yang memiliki tubuh langsing dan anggun, memiliki bingkai halus yang menambah sifat kucing jenis Siamese yang lincah dan ingin tahu. Salah-satu ciri-ciri kucing Siam adalah bulu kucing Siam yang pendek, yang juga dikenal karena kilauannya yang lembut dalam warna seperti putih dan krim, dengan warna yang lebih gelap menghiasi wajah, telinga, kaki, dan ekor kucing jenis Siamese ini.</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>
+            Kucing Abyssinian, yang terkenal karena sifat mereka yang sangat penuh kasih dan mesra, tidak tertinggal jauh dengan kucing Mesir Mau sebagai salah satu ras kucing tertua di dunia.Kucing Abyssinian adalah salah satu ras kucing yang kuno dan terpandang, diyakini berasal dari Mesir kuno. Terkenal karena penampilan yang memukau dan kepribadian yang memikat, jenis kucing Abyssinian dihargai oleh pecinta kucing sejak berabad-abad yang lalu. Kucing anggun ini memiliki pola bulu yang khas, dengan setiap helai bulu bergaris-garis dengan berbagai warna. Bulu mereka memiliki kualitas hangat dan berkilau, menambah daya tarik mereka secara keseluruhan. Selain itu, kucing Abyssinian memiliki tubuh yang lentur dan berotot, mencerminkan sifat lincah dan kekuatan alami mereka. Tubuh ramping dan gerakan yang anggun mereka membuat mereka menjadi figur yang menakjubkan.
+            \n\nSelain keindahan fisik mereka, kucing Abyssinian juga dikenal karena kepribadian mereka yang hidup dan menarik. Kucing karismatik ini penuh energi dan rasa ingin tahu, selalu siap untuk petualangan baru atau bermain dan mengejar. Mereka memiliki sifat bermain yang membawa kegembiraan dan semangat ke dalam dunia Anda. Jenis kucing Abyssinian juga sangat menyukai kebersamaan dengan manusia dan merupakan kucing yang amat sosial. Kucing Abyssinian menikmati keberadaan mereka sebagai bagian dari keluarga dan sering mengikuti orang-orang yang mereka cintai di sekitar rumah untuk mencari perhatian dan kasih sayang. Sifat mereka yang penuh kasih dan interaktif membuat mereka menjadi teman yang ideal bagi individu maupun keluarga.
+            \n\nCiri-ciri kucing Abyssinian yang unik lainnya adalah mata mereka yang ekspresif dan memikat. Mata jenis kucing Abyssinian yang berbentuk almond biasanya besar dan bercahaya, memancarkan kecerdasan dan rasa ingin tahu mereka. Warna mata mereka dapat bervariasi, mulai dari nuansa emas, hijau, atau hazel. Pandangan penuh pesona dari Abyssinian dengan mudah dapat memikat hati mereka yang ada di sekitar kucing ini. Dengan penampilan yang mencolok dan mata yang menarik, kucing Abyssinian benar-benar menjadi ras yang memiliki keindahan dan pesona yang istimewa.
+        </item>
+
+        <item>
+            Kucing American Shorthair, meskipun penuh kasih, juga merupakan pemburu yang terampil. Kucing ini, yang awalnya dibawa ke Amerika Utara oleh orang Eropa, memainkan peran penting dalam mengendalikan hama. Kucing American Shorthair telah mengalami pembiakan selektif sejak awal tahun 1900-an untuk mempertahankan ciri khas mereka, menjadikan American Shorthair salah satu ras kucing paling populer.
+            \n\nSaat ini, kucing bulu pendek Amerika ini menduduki peringkat sebagai ‘ras kucing yang keenam paling banyak dibudidayakan’ di seluruh dunia. American Shorthair ideal sebagai hewan peliharaan karena sifat mereka yang tidak memerlukan banyak perawatan, independen, dan dapat beradaptasi dengan baik saat ditinggal sendirian dalam waktu yang lama. American Shorthair juga dikenal dapat menciptakan permainan unik untuk menghibur diri mereka sendiri saat ditinggal sendirian.
+            \n\nSelain itu, perkembangan ras kucing Amerika short hair selama bertahun-tahun telah terfokus pada peningkatan atribut fisik dan temperamen mereka. Melalui pembiakan selektif, kucing bulu pendek Amerika telah mencapai keseimbangan antara kesehatan yang baik, sifat yang ramah, dan fisik yang menarik serta kuat Evolusi ras kucing Amerika short hair seperti ini telah berkontribusi pada popularitas mereka yang berkelanjutan dan status sebagai hewan peliharaan yang sangat dihargai.
+        </item>
+
+        <item>
+            Standar ras kucing Balinese ditetapkan oleh Sylvia Holland, seorang seniman terkenal yang bekerja di Walt Disney Studios. Dengan bulu panjang dan halus yang mencolok, kucing Balinese dianggap sebagai salah satu jenis kucing yang paling menakjubkan. Mereka memiliki kemiripan yang dekat dengan kucing Siam, tidak hanya dalam penampilan mereka, tetapi juga dalam sifat dan kepribadian mereka.
+            \n\nKucing Balinese, yang juga dikenal sebagai keturunan murni kucing Siam berbulu panjang, sebenarnya tidak berasal dari Balinese, Indonesia, seperti yang banyak dipercaya orang. Ras ini mendapat nama dari keanggunan dan keluwesan penari Balinese yang bisa dikatakan menyerupai kucing tersebut.
+            \n\nKarakteristik kucing Balinese dikenal dengan penggelapan warna bulu pada bagian tubuh tertentu (point coloration) yang mencolok, dengan warna mata biru safir yang menambah lagi daya tarik mereka. Selain penampilan mereka yang menawan, kucing Balinese memiliki bulu yang lembut dengan panjang sedang, disertai ekor yang berbulu lebat. Kecerdasan, keceriaan, dan sifat sosial kucing cantik ini diwarisi dari kucing Siam, nenek moyang mereka.
+        </item>
+
+        <item>
+            Kucing ras Birman, dengan mata biru memukau dan tubuh panjang berbulu lebat mereka, menampilkan aura keanggunan dan kemegahan Birman, memberikan kesan yang menakjubkan setiap kali kucing Birman memasuki suatu ruangan.
+            \n\nNamun, tahukah Anda bahwa kucing Birman yang berharga ini juga memiliki asal-usul yang misterius? Salah satu cerita rakyat Burma yang paling dihormati dan terkenal adalah kisah Sinh, di mana seekor kucing Birman bermata emas yang memukau secara heroik menyelamatkan seorang pendeta terakhir di sebuah kuil di saat invasi. Sinh, awalnya memiliki bulu putih, dikatakan telah mengubah bulunya menjadi berwarna emas dan matanya berwarna biru safir, yang berkontribusi pada penampilan yang unik dari kucing Birman saat ini. Sejak saat itu, Birman telah menjadi sosok yang sering dan pantas dirayakan dalam berbagai cerita rakyat, media, dan referensi budaya populer, salah satunya yang paling berkesan adalah “That Darn Cat!” dari Disney Studios.
+            \n\nBirman, yang dikenal dengan penampilan mereka yang khas dan menonjol, terkenal dengan tubuh mereka yang panjang, ciri-ciri kucing Birman ini yang meningkatkan sikap anggun Birman. Kucing-kucing ini memamerkan bulu berwarna krem mewah yang panjangnya bervariasi dari sedang hingga panjang. Selain dari ciri-ciri kucing Birman tersebut, wajah, telinga, dan cakar Birman ditandai dengan warna yang lebih gelap, memberikan Birman penampilan yang sangat mirip dengan kucing Siam.
+            \n\nKucing dan anak kucing Birman terkenal dengan mata berbentuk almond yang unik, selain bulu mewah Birman. Meskipun kucing ini bisa memiliki mata berwarna kuning dan hijau, warna biru safir yang dalam tidak hanya merupakan ciri-ciri kucing Birman yang khas dan sangat dikagumi pada Birman, tetapi juga menambahkan unsur kedalaman dan misteri pada daya tarik kucing yang menawan ini.
+            \n\nSelain bulu dan mata Birman, fisik Birman juga tampil kuat dan anggun. Otot kuat kucing Birman penampilan yang kokoh, sementara gerakan mereka menunjukkan keanggunan yang mengalir alami. Keseimbangan antara kekuatan dan keanggunan ini merupakan ciri-ciri kucing Birman yang khas, membuat ras kucing Birman menarik secara visual dan sangat mengesankan secara fisik.
+        </item>
+
+
+        <item>
+            Kucing keturunan Bengal, dengan ciri-ciri kucing Bengal yang khas serta perilaku ceria mereka, sangat cocok di rumah yang mencari hewan peliharaan yang energik dan penuh kasih. Ras kucing Bengal ini, yang terkenal dengan ciri-ciri kucing Bengal mereka, tidak hanya bersemangat dan berjiwa muda tetapi juga menunjukkan ketaatan dan kesetiaan yang luar biasa. Ideal untuk rumah tangga dengan banyak hewan peliharaan, ras kucing Bengal, termasuk anak mereka, berkembang dengan cara perawatan kucing Bengal dan perhatian yang tepat.
+            \n\nMengikuti asal kucing Bengal, dengan ciri-ciri kucing Bengal yang menyerupai macan tutul yang megah ini, memamerkan penampilan unik yang membedakan ras kucing Bengal dari ras kucing lain. Dengan memiliki kerangka yang proporsional, asal kucing Bengal merupakan lambang kekuatan otot dan keatletisan, memungkinkan aktivitas bersemangat sepanjang hari bagi kucing keturunan Bengal, dan navigasi tanpa hambatan di berbagai bentang alam yang menantang. Dikenal karena kaki ras kucing Bengal yang langsing namun kuat sebagai ciri-ciri kucing Bengal, kucing keturunan Bengal dapat dengan mudah menempuh jarak yang luas dan mendaki ketinggian yang besar.
+            \n\nFitur yang paling menonjol dari ras kucing Bengal, tanpa ragu, adalah bulu mereka yang berpola roset yang sangat mirip dengan macan tutul. Bulu kucing keturunan Bengal ini, yang biasanya pendek dan lembut, memiliki warna dasar seperti kuning, karat, oranye, dan gading. Sedangkan, tutul pada bulu ras kucing Bengal dapat menampilkan palet warna yang beragam, termasuk hitam, karat, coklat, cokelat, pasir, juga oranye. Salah satu dari ciri-ciri kucing Bengal yang menarik adalah kilauan perak yang melapisi bulu kucing keturunan Bengal yang  menambah pesona eksotis asal kucing Bengal. Selain itu, kucing keturunan Bengal ini dapat pula dicirikan oleh kepala mereka yang kecil, bulat, dan bermata besar yang tertanam dalam di struktur wajah mereka, yang dengan khas mencerminkan ciri-ciri kucing Bengal.
+        </item>
+
+
+        <item>
+            Diyakini bahwa garis keturunan British Shorthair, yang merupakan salah satu ras kucing Inggris terkemuka, berasal dari kucing Romawi yang dibawa ke Inggris selama invasi Romawi pada tahun 43 Masehi. Sejak tahun 1870-an, kucing British ini menjadi sangat populer di Eropa. Namun, setelah Perang Dunia II, populasi mereka mengalami penurunan signifikan. Saat ini, British Shorthair memiliki warisan genetik dari kucing Russian Blue dan Persian.
+            \n\nKucing British short hair, anggota terkemuka dari ras kucing Inggris, terkenal dengan bulu mereka yang tebal dan mewah. Bulu ini, yang unik di antara ras kucing Inggris, tidak hanya indah tetapi juga berfungsi praktis. Ini memberikan kucing British tingkat isolasi dan perlindungan dari cuaca Inggris yang beragam, membuat kucing British ini cocok dengan iklim tersebut.
+            \n\nSecara budaya, kucing British Short hair telah meninggalkan jejak kaki mereka dalam berbagai aspek media dan sastra. Penampilan menawan dan perilaku terhormat kucing rambut pendek Inggris ini telah menjadikan kucing British pilihan populer dalam film, iklan, dan sebagai maskot. Pengaruh kucing British meluas di luar dunia hewan peliharaan, melambangkan kenyamanan, kemewahan, dan budaya Inggris klasik dalam berbagai bentuk ekspresi artistik.
+            \n\nDari segi temperamen, kucing rambut pendek Inggris ini dikenal dengan sifat mereka yang tenang dan ramah. Sifat ini, dikombinasikan dengan kesehatan yang kuat dan kepribadian yang santai, membuat kucing British ini menjadi favorit di rumah tangga. Temperamen kucing British Short hair yang merupakan ciri khas dari ras rambut pendek Inggris ini, berkontribusi pada status mereka sebagai salah satu ras kucing Inggris yang paling disayangi di seluruh dunia.
+        </item>
+
+
+        <item>
+            Nama “Maine Coon” diyakini berasal dari negara bagian Maine yang dingin di New England.
+            \n\nKucing Maine Coon yang menawan ini memiliki garis keturunan yang mengesankan. Dipercaya bahwa ras kucing Maine Coon adalah keturunan langsung dari enam kucing Angora Turki yang tiba di Maine di kapal Marie Antoinette. Maine Coon saat ini, dikenal sebagai "raksasa yang lembut," menonjol di antara berbagai ras kucing. Ciri khas Maine Coon adalah tubuh besar dan bulu yang mengalir. Mantel bulu tebal kucing Maine Coon, sebagai ciri kunci mereka, membantu Maine Coon bertahan di musim dingin yang panjang dan dingin di Maine.
+            \n\nKucing Maine Coon memiliki kepribadian yang unik, membuat mereka mendapat julukan "kucing lucu sedunia!" Ras kucing Maine Coon tidak hanya cerdas dan sosial, tetapi Maine Coon juga dikenal karena cinta mereka untuk berpelukan dengan pemilik mereka.
+            \n\nMaine Coon, yang dikenal sebagai ras kucing domestik terbesar di dunia, memiliki ciri fisik unik yang membedakan Maine Coon dari ras kucing lainnya. Kucing Maine Coon dan anak kucing Mainecoon, dengan bulu panjang yang mengalir, dapat mencapai panjang hingga 40 inci (100 cm), dan apabila dewasa dapat berdiri setinggi 15 inci (38 cm). Ciri khas ras Maine Coon adalah kerangka besar mereka. Berat kucing Maine Coon biasanya antara 13 hingga 18 pon (6 hingga 8 kg), meskipun beberapa Maine Coon bahkan dapat berbobot hingga 25 pon (11 kg).
+            \n\nBulu panjang dan tebal kucing Maine Coon adalah ciri khas lainnya. Maine Coon hadir dalam berbagai warna, termasuk warna solid seperti putih, hitam, biru, dan krim, serta pola dwiwarna, calico, maupun corak berbayang dan asap. Atribut fisik unik mereka mencakup struktur tulang yang mengesankan, garis rahang Maine Coon yang tajam, telinga dan ekor berumbai (tuft), dan gumpalan bulu dada yang mencolok khas kucing Maine Coon.
+        </item>
+
+
+        <item>
+            Kucing Persia, dengan wajah khas "boneka" mereka, berasal dari kerajaan kuno Mesopotamia dan terkenal karena sikap ras kucing Persia mereka yang hangat, ramah, dan tenang.
+            \n\nSelama ratusan tahun, ras kucing Persia yang luar biasa, dikenal dengan sikap megah mereka. Kucing Persia sering dikaitkan dengan bangsawan dan tokoh-tokoh terkenal seperti Florence Nightingale dan Ratu Victoria, berkat pesona ras kucing Persia mereka yang menawan.
+            \n\nKucing Persia, yang dibedakan dengan penampilan menarik dan sikap ras kucing Persia yang tenang, sering kali menyalip ras kucing lain dalam hal pesona. Ras ini, termasuk anakan kucing Persia, terkenal dengan fitur unik mereka: wajah yang menawan datar, pipi yang montok, dan hidung yang kecil, yang semuanya meningkatkan daya tarik ras kucing Persia yang tak tertahankan. Anakan kucing Persia, yang dihiasi dengan bulu panjang yang mewah, dapat tepat digambarkan sebagai bola bulu, mewujudkan sifat kucing Persia yang tenang dan lembut. Meskipun mereka memiliki kerangka tubuh yang berukuran sedang, kucing Persia dapat mencapai tinggi 10 hingga 15 inci (25 hingga 38 cm). Di mana, anggota jantan dari ras kucing Persia ini dapat mencapai berat hingga 12 pon (5,5 kg).
+        </item>
+
+
+        <item>
+            Kucing Ragdoll tidak hanya sangat ramah, tetapi mereka juga memiliki watak yang sangat lembut, membuat ras kucing Ragdoll cocok untuk keluarga yang memiliki anak kecil dan hewan peliharaan lainnya.
+            \n\nKarakter kucing Ragdoll adalah sangat tenang dan penurut. Kucing menggemaskan yang berperilaku sangat baik ini tergolong tidak terlalu atletis serta lebih menyukai permainan yang lembut.
+            \n\nCiri-ciri kucing Ragdoll adalah tubuh yang besar, berat, dan berotot. Ciri-ciri kucing Ragdoll lainnya adalah bulu mereka yang agak panjang dan halus. Kucing Ragdoll dwi-warna memiliki kepala lebar berbentuk menyerupai pasak dengan mata bulat berwarna biru mencolok. Kucing Ragdoll mempunyai berbagai varian warna tetapi yang paling sering ditemui adalah yang dwi-warna dengan titik-titik berwarna yang biasanya menyebar di sekitar mata, telinga, kaki belakang, dan ekor.
+        </item>
+
+        <item>
+            Dikenal dengan sifat mereka yang nakal namun setia, sikap ceria dari kucing jenis Siamese tidak hanya menawan, tetapi sifat mereka yang secara inheren sosial akan dengan cepat memenangkan hati.
+            \n\nKucing Siam dikenal sebagai ikon felin yang terkenal, tidak hanya karena kepribadian kucing Siam atau temperamen kucing Siam yang menakjubkan, tetapi juga karena penampilan kucing ras Siam yang khas. Kucing ras Siam, yang memiliki tubuh langsing dan anggun, memiliki bingkai halus yang menambah sifat kucing jenis Siamese yang lincah dan ingin tahu. Salah-satu ciri-ciri kucing Siam adalah bulu kucing Siam yang pendek, yang juga dikenal karena kilauannya yang lembut dalam warna seperti putih dan krim, dengan warna yang lebih gelap menghiasi wajah, telinga, kaki, dan ekor kucing jenis Siamese ini.
+            \n\nSangat menarik bahwa kucing ras Siam, yang dikenal dengan tanda gelap khas di wajah, telinga, ekor, dan kaki pada kucing Siam, dilahirkan tanpa ciri khas ini. Awalnya, anakan kucing Siam berwarna putih atau krem, dan baru mulai mengembangkan ciri-ciri kucing Siam berupa titik gelap saat mereka dewasa. Meskipun ukuran kucing Siam relatif kecil, sekitar 8 hingga 10 inci (20 hingga 25 cm), kucing jenis Siamese memiliki fisik yang berotot yang mendukung sifat bermain dan kepribadian khas kucing ras Siam, yang telah melekat sejak kucing Siam berasal dari asal-usulnya.
+        </item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/kucing_abyssinian</item>
+        <item>@drawable/kucing_american_shorthair</item>
+        <item>@drawable/kucing_balinese</item>
+        <item>@drawable/kucing_birman</item>
+        <item>@drawable/kucing_bengal</item>
+        <item>@drawable/kucing_british_shorthair</item>
+        <item>@drawable/kucing_maine_coon</item>
+        <item>@drawable/kucing_persia</item>
+        <item>@drawable/kucing_ragdoll</item>
+        <item>@drawable/kucing_siamese</item>
+    </integer-array>
+</resources>
