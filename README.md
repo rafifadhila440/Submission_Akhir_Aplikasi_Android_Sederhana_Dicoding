@@ -7,3 +7,7 @@ Nama package "MyRecyclerView_1", bahasa pemrograman Kotlin, API Level 21, Empty 
 Informasi didalam aplikasi kucing diambil dari website -> https://www.whiskasindonesia.com/jenis-jenis-kucing.\
 Lokasi Aplikasi APK (kondisi Unsigned utk upload ke dicoding) -> \MyRecyclerView_1\app\build\outputs\apk\debug) \
 Posisi project "Android"
+\
+\
+
+![alt text](MainActivityScreenshot.jpg)
