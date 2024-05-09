@@ -6,8 +6,8 @@ Aplikasi ini terinspirasi dari aplikasi "Pahlawan" yang dijadikan bahan latihan 
 Nama package "MyRecyclerView_1", bahasa pemrograman Kotlin, API Level 21, Empty Views Activity.\
 Informasi didalam aplikasi kucing diambil dari website -> https://www.whiskasindonesia.com/jenis-jenis-kucing.\
 Lokasi Aplikasi APK (kondisi Unsigned utk upload ke dicoding) -> \MyRecyclerView_1\app\build\outputs\apk\debug) \
-Posisi project "Android"
-\
-\
+Posisi project "Android"\
 
-![alt text](MainActivityScreenshot.jpg)
+![Tampilan halaman MainActivity menggunakan RecyclerView](MainActivityScreenshot.jpg)
+![Tampilan halaman Detail Kucing](DetailKucingScreenshot.jpg)
+![Tampilan halaman About](AboutScreenshot.jpg)
